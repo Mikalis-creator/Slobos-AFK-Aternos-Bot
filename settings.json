@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "XampelSMP.aternos.me:13626",
+    "ip": "XampelSMP.aternos.me",
     "port": 13626,
     "version": "",
     "try-creative": false
